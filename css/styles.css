@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.body{
+    margin: 20px;
+    display: flex;
+    gap: 50px;
+}
+.section{
+    width: 470px;
+}
+.logo{
+    width: 250px;
+    height: 200px;
+}
+section p{
+    margin: 10px 0;
+}
+
+.fieldset{
+    display: flex;
+    flex-direction: column;
+    border: none;
+}
+.fieldset input{
+    height: 25px;
+    border: 1px solid lightgrey;
+    margin-bottom: 10px;
+}
+span{
+    position: relative;
+    left: 340px;
+    color: lightskyblue;
+    font-size: small;
+}
+.sign-up{
+    width: 130px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    color: lightgrey;
+    background-color: white;
+    font-size: medium;
+}
+.sign{
+    display: flex;
+    gap: 30px;
+    margin: 30px 0;
+}
+.sign label{
+    width: 290px;
+}
+p a{
+    color: lightskyblue;
+}
+
